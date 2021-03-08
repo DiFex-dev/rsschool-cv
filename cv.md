@@ -15,3 +15,6 @@ S = math.sqrt((p * (p - a) * (p - b) * (p - c)))
 print(S)
 ```  
 6.No work experience  
+**Education**  
+7.Student of the Belarusian State University  
+8.A2  
